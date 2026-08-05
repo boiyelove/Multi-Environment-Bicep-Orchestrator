@@ -1,0 +1,11 @@
+{
+  "tenantId": "tenant-a",
+  "correlationId": "rank-38-deny-001",
+  "target": "development",
+  "requestedAction": "plan_multi_environment_bicep_orchestrator",
+  "credentialMode": "workload_identity",
+  "publicNetworkAccess": true,
+  "evidenceFresh": true,
+  "approved": false,
+  "containsSecret": false
+}
